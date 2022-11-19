@@ -100,5 +100,5 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeivisFelipe&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="Crazynds github stats"/>
 </a>
 
-<img align="right" src="http://estruyf-github.azurewebsites.net/api/VisitorHit?user=DeivisFelipe"/>
+![](https://api.visitorbadge.io/api/VisitorHit?user=DeivisFelipe&repo=github-visitors-badge&countColor=%237B1E7A)
 
