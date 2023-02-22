@@ -92,6 +92,8 @@ Here are some ideas to get you started:
 
 ## **Statistics**
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeivisFelipe&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 <a href="https://github.com/DeivisFelipe">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivisFelipe&theme=tokyonight&hide_langs_below=1&hide=jupyter%20notebook&langs_count=7&layout=compact" />
 </a>
@@ -100,5 +102,6 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeivisFelipe&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="Crazynds github stats"/>
 </a>
 
-![](https://api.visitorbadge.io/api/VisitorHit?user=DeivisFelipe&repo=github-visitors-badge&countColor=%237B1E7A)
+![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=DeivisFelipe&label=visitors&logo=Codeforces&style=for-the-badge&labelColor=black&color=forestgreen)
+[![GitHub Follow](https://img.shields.io/github/followers/DeivisFelipe?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/DeivisFelipe)
 
