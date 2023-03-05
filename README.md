@@ -40,6 +40,22 @@ Here are some ideas to get you started:
 </details>
 
 <details>
+  <summary>Italiano <img width="20" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></summary>
+  
+## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Su di me
+
+<img align="right" width="300" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/quando_compila.gif" />
+
+## Sono uno studente di Informatica - UFSM e un programmatore PHP 😅
+
+- 👨‍💻 Attualmente lavoro per Pjfit come sviluppatore full-stack PHP/Symfony. 🖥️
+- 📚 Studio la programmazione quotidiana, inglese e italiano.
+- 💪🏼 Nel tempo libero registro video e sviluppo il mio ERP.
+- ⚡ Lavoro anche come data scientist per un progetto SUS.
+
+</details>
+
+<details>
   <summary>English <img width="20" src="https://flagicons.lipis.dev/flags/4x3/us.svg"></summary>
 
 ## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
