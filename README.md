@@ -118,7 +118,7 @@ Here are some ideas to get you started:
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeivisFelipe&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="Deivis Felipe github stats"/>
 </a>
 
-![Codewars](https://github.r2v.ch/codewars?user=crazynds&stroke=%23BB432C)
+![Codewars](https://github.r2v.ch/codewars?user=DeivisFelipe&stroke=%23BB432C)
 
 ![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=DeivisFelipe&label=visitors&logo=Codeforces&style=for-the-badge&labelColor=black&color=forestgreen)
 [![GitHub Follow](https://img.shields.io/github/followers/DeivisFelipe?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/DeivisFelipe)
