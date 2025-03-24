@@ -120,6 +120,6 @@ Here are some ideas to get you started:
 
 ![Codewars](https://github.r2v.ch/codewars?user=DeivisFelipe&stroke=%23BB432C)
 
-![Visitors](https://shields-io-visitor-counter.herokuapp.com/badge?page=DeivisFelipe&label=visitors&logo=Codeforces&style=for-the-badge&labelColor=black&color=forestgreen)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeivisFelipe%2FDeivisFelipe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitantes&edge_flat=true)](https://hits.seeyoufarm.com)
 [![GitHub Follow](https://img.shields.io/github/followers/DeivisFelipe?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/DeivisFelipe)
 
