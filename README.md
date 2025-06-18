@@ -1,125 +1,88 @@
-<!--
-**DeivisFelipe/DeivisFelipe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 # Deivis Felipe Guerreiro Fagundes
 
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/deivis-felipe-guerreiro/)](https://www.linkedin.com/in/deivis-felipe-guerreiro/)
-[![Twitter Badge](https://img.shields.io/badge/-@DeivisFelipe01-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/DeivisFelipe01)](https://twitter.com/DeivisFelipe01)
-[![Instagram Badge](https://img.shields.io/badge/-@deivis_felipe-e4405f?style=flat&labelColor=e4405f&logo=instagram&logoColor=white&link=https://www.instagram.com/deivis_felipe&utm_content=48o322o)](https://www.instagram.com/invites/contact/?i=1owgvdpv6220f&utm_content=48o322o)
-[![Gmail Badge](https://img.shields.io/badge/-Email-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:deivis.guerreiro@gmail.com)](mailto:deivis.guerreiro@gmail.com)
-[![Youtube Badge](https://img.shields.io/badge/-Youtube-F75E25?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCAdLxWaxmRof9B4RVZZcYXg)](https://www.youtube.com/channel/UCAdLxWaxmRof9B4RVZZcYXg)
-[![Website Badge](https://img.shields.io/badge/-backboneweb.com.br-47CCCC?style=flat&logo=Google-Chrome&logoColor=white&link=https://backboneweb.com.br/)](https://backboneweb.com.br/)
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-DeivisFelipe-blue?style=flat&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/deivis-felipe-guerreiro/)](https://www.linkedin.com/in/deivis-felipe-guerreiro/)
+[![Twitter Badge](https://img.shields.io/badge/Twitter-@DeivisFelipe01-1ca0f1?style=flat&logo=twitter&logoColor=white&link=https://twitter.com/DeivisFelipe01)](https://twitter.com/DeivisFelipe01)
+[![Instagram Badge](https://img.shields.io/badge/Instagram-@deivis_felipe-e4405f?style=flat&logo=instagram&logoColor=white&link=https://www.instagram.com/deivis_felipe/)](https://www.instagram.com/deivis_felipe/)
+[![Gmail Badge](https://img.shields.io/badge/Email-deivis.guerreiro@gmail.com-c14438?style=flat&logo=gmail&logoColor=white)](mailto:deivis.guerreiro@gmail.com)
+[![YouTube Badge](https://img.shields.io/badge/YouTube-Channel-F75E25?style=flat&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/UCAdLxWaxmRof9B4RVZZcYXg)](https://www.youtube.com/channel/UCAdLxWaxmRof9B4RVZZcYXg)
 
+---
 
-<details>
-  <summary>Pt-BR <img width="20" src="https://flagicons.lipis.dev/flags/4x3/br.svg"></summary>
-  
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Sobre
+## 🟢🟡 Sobre – Versão em Português
 
-<img align="right" width="300" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/quando_compila.gif" />
+<img align="right" width="200" src="https://media.giphy.com/media/dfkXw8NbkkxsQ/giphy.gif" alt="coding gif"/>
 
-## Sou estudante de Ciência da Computação - UFSM e um programador PHP 😅
+- 🎓 Estudante de Ciência da Computação na UFSM; servidor público atuando em desenvolvimento web (Java) e DevOps/Security.  
+- 💻 Bolsista PET‑CC; cursando MBA em Segurança da Informação.  
+- 📚 Estudo diário de programação, inglês e italiano.  
+- ⚙️ Autônomo: desenvolvo ERP próprio pela empresa Joga Comigo.  
+- 📝 Também estudo para concursos públicos.
 
-- 👨‍💻 Atualmente trabalho para Pjfit como desenvolvedor full-stack PHP/Symfony. 🖥️
-- 📚 Estudo diariamente programação, inglês e italiano.
-- 💪🏼 No meu tempo livre gravo videos e desenvolvo meu ERP.
-- ⚡ Trabalho também como cientista de dados para um projeto do SUS. 
+---
 
-</details>
+## 🔵🔴 About – English Version
 
-<details>
-  <summary>Italiano <img width="20" src="https://flagicons.lipis.dev/flags/4x3/it.svg"></summary>
-  
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> Su di me
+<img align="right" width="200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="dev gif"/>
 
-<img align="right" width="300" src="https://clubedosgeeks.com.br/wp-content/uploads/2016/01/quando_compila.gif" />
+- 🎓 Computer Science student at UFSM; public employee working in web development (Java), DevOps & Security.  
+- 💻 PET‑CC scholarship holder; pursuing an MBA in Information Security.  
+- 📚 Learning programming, English, and Italian daily.  
+- ⚙️ Founder of **Joga Comigo**, developing my own ERP.  
+- 📝 Also preparing for Brazilian public service exams.
 
-## Sono uno studente di Informatica - UFSM e un programmatore PHP 😅
+---
 
-- 👨‍💻 Attualmente lavoro per Pjfit come sviluppatore full-stack PHP/Symfony. 🖥️
-- 📚 Studio la programmazione quotidiana, inglese e italiano.
-- 💪🏼 Nel tempo libero registro video e sviluppo il mio ERP.
-- ⚡ Lavoro anche come data scientist per un progetto SUS.
+## 🛠️ Tech Stack & Tools
 
-</details>
+### 🧑‍💻 Languages  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC++-00599C?style=flat-square&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
-<details>
-  <summary>English <img width="20" src="https://flagicons.lipis.dev/flags/4x3/us.svg"></summary>
+### ⚙️ Frameworks & Platforms  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Symfony](https://img.shields.io/badge/Symfony-000000?style=flat-square&logo=symfony&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vue.js&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 
-## <img width="45" alt="about" src="https://raw.github.com/elizarov/elizarov/master/about.png"> About Me
+### 🧰 Tools & Environments  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![PHPStorm](https://img.shields.io/badge/PHPStorm-5C2D91?style=flat-square&logo=phpstorm&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
 
-<img align="right" width="300" src="https://i.giphy.com/media/dfkXw8NbkkxsQ/giphy.gif" />
+---
 
-## I'm a Computer Science student - UFSM and I am a PHP programmer 😅
+## 📊 Stats & Contributions
 
-- 👨‍💻 Currently works for Pjfit as a full-stack PHP/Symfony developer. 🖥️
-- 📚 I study programming, English and Italian daily.
-- 💪🏼 In free time I record videos for my Youtube Channel and I develop my ERP.
-- ⚡ I'm also working as data science for a SUS project.
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeivisFelipe&theme=light&hide_border=true)](https://github.com/DeivisFelipe)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeivisFelipe&theme=tokyonight&layout=compact)]()
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeivisFelipe&show_icons=true&theme=tokyonight&count_private=true)]()
+[![Codewars](https://github.r2v.ch/codewars?user=DeivisFelipe&stroke=%23BB432C)]()
 
-  
-</details>
+---
 
-## **Skils**
+## 📫 Como me encontrar
 
-### Programming languages:
+- ✉️ **Email**: deivis.guerreiro@gmail.com  
+- 💼 **LinkedIn**: [linkedin.com/in/deivis-felipe-guerreiro](https://www.linkedin.com/in/deivis-felipe-guerreiro/)  
+- 🐦 **Twitter**: [@DeivisFelipe01](https://twitter.com/DeivisFelipe01)  
+- 📸 **Instagram**: [@deivis_felipe](https://www.instagram.com/deivis_felipe/)  
+- ▶️ **YouTube**: [Meu Canal](https://www.youtube.com/channel/UCAdLxWaxmRof9B4RVZZcYXg)
 
-![PHP](https://img.shields.io/badge/-PHP-8993be?style=flat-square&logo=php&logoColor=ffffff)
-![C/C++](http://img.shields.io/badge/-C/C++-FFA420?style=flat-square&logo=c&logoColor=ffffff)
-![Java](http://img.shields.io/badge/-Java-D0A384?style=flat-square&logo=java&logoColor=ffffff)
-![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
-![HTML5](https://img.shields.io/badge/-HTML5-%23E44D27?style=flat-square&logo=html5&logoColor=ffffff)
-![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
-![Markdown](https://img.shields.io/badge/-Markdown-000000?style=flat-square&logo=markdown)
-![Nodejs](https://img.shields.io/badge/-Nodejs-339933?style=flat-square&logo=Node.js&logoColor=ffffff)
-![SQL](https://img.shields.io/badge/-Sql-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=ffffff)
-![Python](https://img.shields.io/badge/-Python-EEC900?style=flat-square&logo=Python&logoColor=ffffff)
+---
 
-### Frameworks:
-
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap)
-![Laravel](https://img.shields.io/badge/-Laravel-606E8C?style=flat-square&logo=php&logoColor=ffffff)
-![Symfony](https://img.shields.io/badge/-Symfony-4C9141?style=flat-square&logo=php&logoColor=ffffff)
-![Vue](https://img.shields.io/badge/-Vue-41B883?style=flat-square&logo=javascript&logoColor=ffffff)
-![Flutter](https://img.shields.io/badge/-Flutter-2D572C?style=flat-square&logo=flutter&logoColor=ffffff)
-
-
-### Development Tools:
-
-![Git](https://img.shields.io/badge/-Git-%23F05032?style=flat-square&logo=git&logoColor=%23ffffff)
-![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Eclipse-IDE](http://img.shields.io/badge/-Eclipse-2C2255?style=flat-square&logo=eclipse&logoColor=ffffff)
-![PHPStorm](http://img.shields.io/badge/-PHPStorm-CF3476?style=flat-square&logo=php&logoColor=ffffff)
-![Postman](http://img.shields.io/badge/-Postman-F3DA0B?style=flat-square&logo=postman&logoColor=000000&labelColor=%23F7DF1C)
-![Ubuntu](http://img.shields.io/badge/-Ubuntu-6D3F5B?style=flat-square&logo=ubuntu&logoColor=ffffff)
-
-## **Statistics**
-
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=DeivisFelipe&theme=light&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<a href="https://github.com/DeivisFelipe">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DeivisFelipe&theme=tokyonight&hide_langs_below=1&hide=jupyter%20notebook&langs_count=7&layout=compact" />
-</a>
-
-<a href="https://github.com/DeivisFelipe">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=DeivisFelipe&show_icons=true&theme=tokyonight&line_height=27&count_private=true" alt="Deivis Felipe github stats"/>
-</a>
-
-![Codewars](https://github.r2v.ch/codewars?user=DeivisFelipe&stroke=%23BB432C)
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FDeivisFelipe%2FDeivisFelipe&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitantes&edge_flat=true)](https://hits.seeyoufarm.com)
-[![GitHub Follow](https://img.shields.io/github/followers/DeivisFelipe?label=follow&logo=github&style=for-the-badge&labelColor=black)](https://github.com/DeivisFelipe)
-
+**Oi, seja bem-vindo ao meu perfil!**  
+I’m a passionate dev building full-stack projects, studying DevOps, InfoSec, and languages. Let’s connect!
