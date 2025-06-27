@@ -67,7 +67,7 @@
 
 ## 📊 Stats & Contributions
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeivisFelipe&theme=light&hide_border=true)](https://github.com/DeivisFelipe)
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=DeivisFelipe&theme=dark&hide_border=true&locale=pt_BR" alt="GitHub Streak" /></a>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DeivisFelipe&theme=tokyonight&layout=compact)]()
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DeivisFelipe&show_icons=true&theme=tokyonight&count_private=true)]()
 [![Codewars](https://github.r2v.ch/codewars?user=DeivisFelipe&stroke=%23BB432C)]()
